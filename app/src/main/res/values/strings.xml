@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Monty_hall</string>
+
+    <string name="label_choose_door">1. Pick a door.</string>
+    <string name="door_image">Door image</string>
+    <string name="label_choose_swap_or_keep">2. Do you want to swap or keep your choice?</string>
+    <string name="button_swap">Swap</string>
+    <string name="button_keep">Keep</string>
+    <string name="label_car_result">You got the car!</string>
+    <string name="label_goat_result">You got a goat.</string>
+    <string name="button_restart">Restart</string>
+    <string name="button_help">HELP</string>
+
+
+    // statistics activity
+    <string name="title_activity_display_statistics">Statistics</string>
+    <string name="label_times_played">Times played:</string>
+    <string name="label_times_swapped">Times swapped:</string>
+    <string name="label_times_swapped_and_won">Won:</string>
+    <string name="label_times_swapped_and_lost">Lost:</string>
+    <string name="label_times_kept">Times kept:</string>
+    <string name="label_times_kept_and_won">Won:</string>
+    <string name="label_times_kept_and_lost">Lost:</string>
+
+    // reset statistics alert dialog
+    <string name="reset_statistics_alert_dialog_title">Reset statistics?</string>
+    <string name="reset_statistics_alert_dialog_message">You\'ll loose all gathered data!</string>
+
+    // help activity
+    <string name="title_activity_help">Help</string>
+    <string name="help_intro">The Monty Hall problem is a brain teaser, in the form of a probability puzzle.</string>
+    <string name="help_problem">Here is the problem:\nSuppose you are on a game show, and you are given the choice of three doors: Behind one door is a car; behind the others, goats. You pick a door, say No. 1, and the host, who knows what is behind the doors, opens another door, say No. 3, which has a goat. He then says to you, "Do you want to pick door No. 2?"</string>
+    <string name="help_question">Is it to your advantage to switch your choice?</string>
+
+    // action bar buttons
+    <string name="action_reset_statistics">Reset Statistics</string>
+    <string name="action_help">Help</string>
+
+    // others
+    <string name="button_yes">Yes</string>
+    <string name="button_no">No</string>
+    <string name="swapped_and_won_key">swapped_and_won</string>
+    <string name="swapped_and_lost_key">swapped_and_lost</string>
+    <string name="kept_and_won_key">kept_and_won</string>
+    <string name="kept_and_lost_key">kept_and_lost</string>
+</resources>
