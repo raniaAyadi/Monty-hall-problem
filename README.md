@@ -9,5 +9,5 @@ Ce joueur est placé devant `trois portes fermées`. Derrière l'une d'elles se 
 
 ### DEMO
 
-![alt text](https://github.com/raniaAyadi/Monty-hall-problem/master/image/1.png)
-
+![alt text](https://github.com/raniaAyadi/Monty-hall-problem/image/1.png)
+      
